@@ -6,7 +6,7 @@ void print_hello() {
 	printf("Hello, World from Planet C Language!!!\n");
 }
 void print_goodbye() {
-	printf("Goodbye, Earth; Returning back to home planet!!!!\n");
+	printf("Goodbye, Earth; returning back to home planet!!!!\n");
 }
 int main() {
 	print_hello();
