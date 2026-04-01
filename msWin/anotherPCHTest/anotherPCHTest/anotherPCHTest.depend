@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1775040137 source:c:\users\owner\clang\mswin\testgch\anotherpchtest\anotherpchtest\main.c
+	"pch.h"
+
+1775040109 c:\users\owner\clang\mswin\testgch\anotherpchtest\anotherpchtest\pch.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1775040109 source:c:\users\owner\clang\mswin\testgch\anotherpchtest\anotherpchtest\pch.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
