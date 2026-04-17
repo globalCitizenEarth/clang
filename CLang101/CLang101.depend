@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+<<<<<<< Updated upstream
+1517012796 source:c:\users\wbosw\documents\github\helloworld\clang101\main.c
+=======
+1516669551 source:/home/william/Documents/HelloWorld/CLang101/main.c
+>>>>>>> Stashed changes
+	<stdio.h>
+	<stdlib.h>
+
