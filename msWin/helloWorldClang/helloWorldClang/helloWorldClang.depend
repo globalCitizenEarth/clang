@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1777852711 source:c:\users\owner\clang\mswin\helloworldclang\helloworldclang\main.c
+	<stdio.h>
+
